@@ -16,7 +16,7 @@ A platform designed to streamline scheduling for employees and events, improving
 
 ## Project Status
 ⚠️ **Private Repository** – The source code is confidential due to business use.  
-While the repository is not public, the project was fully implemented and deployed internally. Sample screenshots or walkthroughs can be shared during interviews to demonstrate your contribution.
+While the repository is not public, the project was fully implemented and deployed internally. Sample screenshots or walkthroughs can be shared during interviews to demonstrate my contribution.
 
 ---
 
@@ -25,8 +25,3 @@ While the repository is not public, the project was fully implemented and deploy
 - Built server-side workflows with Node.js and Prisma for automated scheduling.  
 - Developed Next.js front-end for seamless user interaction.  
 - Improved operational efficiency and reduced scheduling conflicts.
-
----
-
-## Notes for Reviewers
-For internship applications, consider the repository a demonstration of hands-on experience with modern web development and database design. Direct access is restricted due to confidentiality.
